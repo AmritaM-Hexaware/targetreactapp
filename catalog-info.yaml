@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: targetreactapp
+  annotations:
+    github.com/project-slug: AmritaM-Hexaware/targetreactapp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
